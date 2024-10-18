@@ -1,0 +1,13 @@
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:181:15:pxPortInitialiseStack	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:213:13:prvTaskExitError	3
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:239:6:SVC_Handler	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:258:13:prvPortStartFirstTask	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:285:12:xPortStartScheduler	3
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:388:6:vPortEndScheduler	2
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:396:6:vPortEnterCritical	3
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:413:6:vPortExitCritical	3
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:425:6:PendSV_Handler	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:484:6:SysTick_Handler	2
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:678:32:vPortSetupTimerInterrupt	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:700:13:vPortEnableVFP	1
+../ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/port.c:717:10:vPortValidateInterruptPriority	4
